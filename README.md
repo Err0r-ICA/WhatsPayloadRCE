@@ -12,6 +12,9 @@ git clone https://github.com/Err0r-ICA/WhatsPayloadRCE
 cd WhatsPayloadRCE && bash start
 ```
 
+## Screenshot 
+![Screenshot](https://i.postimg.cc/L9yF7dkb/Screenshot-20200422-225622-Termux.jpg) 
+
 ## How Get Shell ?
 
 1. You just send the **.GIF** file to victim user **AS A DOCUMENT NOT IMAGES**
