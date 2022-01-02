@@ -38,3 +38,6 @@ cd WhatsPayloadRCE && bash start
 * [FACEBOOK](https://www.facebook.com/termuxxhacking)
 
 * [INSTAGRAM](https://instagram.com/termux_hacking)
+
+(https://img.shields.io/badge/build-passing-red.svg?style=plastic)](https://github.com/Err0r-ICA/SpeedTest/issues)
+
